@@ -2,6 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstruct class EntityBase {
-    public abstruct string getId ();
+public abstract class EntityBase {
+    public abstract string getId ();
 }
